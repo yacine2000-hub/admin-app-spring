@@ -20,7 +20,7 @@ services:
 
   phpmyadmin-admin-db:
     container_name: container_phpmyadmin-admindb
-    image: phpmyadmin/phpmyadmin:latest
+    image: arm64v8/phpmyadmin:latest
     ports:
       - 8085:80
     environment:
