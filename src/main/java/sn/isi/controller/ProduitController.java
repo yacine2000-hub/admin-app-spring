@@ -9,8 +9,6 @@ import sn.isi.service.ProduitService;
 import java.util.List;
 
 public class ProduitController {
-
-
     private ProduitService produitService;
 
     @GetMapping

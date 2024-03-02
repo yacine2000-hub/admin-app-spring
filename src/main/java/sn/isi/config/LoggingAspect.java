@@ -53,12 +53,12 @@ public class LoggingAspect {
      */
     @Around("applicationPackagePointcut() && springBeanPointcut()")
     public Object logAround(ProceedingJoinPoint joinPoint) throws Throwable {
-        log.debug("Enter: {}.{}() with argument[s] = {}", joinPoint.getSignature().getDeclaringTypeName(),
-                joinPoint.getSignature().getName(), Arrays.toString(joinPoint.getArgs()));
-        //SecurityContextHolder.getContext().getAuthentication().getPrincipal());
+        log.debug("Entrer: {}.{}() with argument[s] = {}", joinPoint.getSignature().getDeclaringType(),
+            joinPoint.getSignature().getName(), Arrays.toString(joinPoint.getArgs()));
+
         Object result = joinPoint.proceed();
-        log.debug("Exit: {}.{}() with result = {}", joinPoint.getSignature().getDeclaringTypeName(),
-                joinPoint.getSignature().getName(), result);
+        log.debug("Exist: {}.{}() with result = {}", joinPoint.getSignature().getDeclaringTypeName(),
+            joinPoint.getSignature().getName(), result);
         return result;
     }
 }
