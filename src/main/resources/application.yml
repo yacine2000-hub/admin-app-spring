@@ -1,6 +1,6 @@
 
     server:
-      port: 8082
+      port: 8081
     spring:
       datasource:
         url: jdbc:mysql://localhost:3306/adminapp-db?createDatabaseIfNotExist=true&useUnicode=true&useJDBCCompliantTimezoneShift=true
@@ -19,3 +19,17 @@
     springdoc:
       api-docs:
         path: /api-docs
+      security:
+        oauth2:
+          resourceserver:
+            jwt:
+              issuer-uri: http://localhost:8080/realms/Fayoss
+              jwk-set-uri: ${spring.security.oauth2.resourceserver.jwt.issuer-uri}/protocol/openid-connect/certs
+    jwt:
+      auth:
+        converter:
+          resource-id: fayoss_rest_api
+          principle-attribute: preferred_username
+    logging:
+      file:
+        name: logs/logs.log

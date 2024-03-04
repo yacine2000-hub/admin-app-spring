@@ -1,13 +1,19 @@
 package sn.isi.controller;
 
 import jakarta.validation.Valid;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 import sn.isi.dto.AppUser;
 import sn.isi.service.AppUserService;
 
 import java.util.List;
 
+@RestController
+@RequestMapping("/api/v1/user")
+@RequiredArgsConstructor
+@PreAuthorize("hasRole('client_user')")
 public class AppUserController {
     private AppUserService appUserService;
 
