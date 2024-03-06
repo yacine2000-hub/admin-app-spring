@@ -16100,3 +16100,5238 @@
   "threadPriority" : 5,
   "service" : "admin-app"
 }
+{
+  "instant" : {
+    "epochSecond" : 1709561605,
+    "nanoOfSecond" : 440895000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 38,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561605,
+    "nanoOfSecond" : 506011000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561605,
+    "nanoOfSecond" : 525944000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561605,
+    "nanoOfSecond" : 549564000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561605,
+    "nanoOfSecond" : 625730000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 39,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 1883000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 62212 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 13810000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 190360000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 199745000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 8 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 304247000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 304809000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 304999000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 305119000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 310241000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 310383000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 294 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 345054000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 346908000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 348987000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 349556000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 400295000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35829d99",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 400611000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 430185000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 532143000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561607,
+    "nanoOfSecond" : 632734000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 42930000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1c5b7e2b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a309cb8, org.springframework.security.web.context.SecurityContextHolderFilter@1c1b4982, org.springframework.security.web.header.HeaderWriterFilter@5c47ead9, org.springframework.web.filter.CorsFilter@3b4b2893, org.springframework.security.web.authentication.logout.LogoutFilter@4eada5e, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@2798ed71, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@713779d7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1245440a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5b58a9ee, org.springframework.security.web.session.SessionManagementFilter@6a3e1526, org.springframework.security.web.access.ExceptionTranslationFilter@4fd452a4, org.springframework.security.web.access.intercept.AuthorizationFilter@1ab36924]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 87356000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 178525000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 186339000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 187229000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 190428000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 2.433 seconds (process running for 242.224)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561608,
+    "nanoOfSecond" : 191622000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 306838000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 69,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 343622000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 352214000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 358332000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 379094000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 58,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 665999000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 62212 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 669700000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 879846000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 886723000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 6 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 993933000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 994614000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 994803000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561672,
+    "nanoOfSecond" : 994910000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 246000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 447000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 329 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 37825000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 39607000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 41696000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 42205000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 54553000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b4cce7f",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 54852000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 82966000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 207275000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 331898000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 588405000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2b6d13cb, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@61f655f8, org.springframework.security.web.context.SecurityContextHolderFilter@3f6a7d36, org.springframework.security.web.header.HeaderWriterFilter@c0f53f5, org.springframework.web.filter.CorsFilter@1ddc0517, org.springframework.security.web.authentication.logout.LogoutFilter@37bce0a4, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@28a8de39, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1fc4e46b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@69228c9d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@73eb5983, org.springframework.security.web.session.SessionManagementFilter@73383f7b, org.springframework.security.web.access.ExceptionTranslationFilter@580f0030, org.springframework.security.web.access.intercept.AuthorizationFilter@7e4042cb]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 632871000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 720215000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 727763000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 728669000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 731458000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 1.112 seconds (process running for 307.765)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561673,
+    "nanoOfSecond" : 732252000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 85,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 143161000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 93,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 149924000
+  },
+  "thread" : "Thread-11",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 82,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 159863000
+  },
+  "thread" : "Thread-11",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 82,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 162216000
+  },
+  "thread" : "Thread-11",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 82,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 182062000
+  },
+  "thread" : "Thread-11",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 82,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 249611000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 62212 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 251867000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 323955000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 327988000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 3 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 403859000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 404376000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 404532000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 404637000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 409474000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 409583000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 157 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 443736000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 445487000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 447531000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 447960000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-4 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 461754000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3af757a0",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 461916000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-4 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 484519000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561675,
+    "nanoOfSecond" : 962781000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 80687000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 247383000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3b445763, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@43632a04, org.springframework.security.web.context.SecurityContextHolderFilter@1307baa6, org.springframework.security.web.header.HeaderWriterFilter@7885ff06, org.springframework.web.filter.CorsFilter@551d0d94, org.springframework.security.web.authentication.logout.LogoutFilter@57eb75ae, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@46a59c6a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7cf22d3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@506590e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3fb19d91, org.springframework.security.web.session.SessionManagementFilter@3dc2833c, org.springframework.security.web.access.ExceptionTranslationFilter@422acec3, org.springframework.security.web.access.intercept.AuthorizationFilter@3e150fab]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 293271000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 432259000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 442686000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 444423000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 447832000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 1.218 seconds (process running for 310.481)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561676,
+    "nanoOfSecond" : 449116000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 109,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561755,
+    "nanoOfSecond" : 97042000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 116,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561755,
+    "nanoOfSecond" : 114987000
+  },
+  "thread" : "Thread-15",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 106,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561755,
+    "nanoOfSecond" : 142532000
+  },
+  "thread" : "Thread-15",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 106,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561755,
+    "nanoOfSecond" : 147540000
+  },
+  "thread" : "Thread-15",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-4 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 106,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561755,
+    "nanoOfSecond" : 155657000
+  },
+  "thread" : "Thread-15",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-4 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 106,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 3166000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 62212 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 8754000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 121917000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 126514000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 4 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 211520000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 212105000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 212268000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 212381000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 219193000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 219416000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 208 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 259492000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 261172000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 263049000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 263479000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-5 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 280391000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7645d6f8",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 280580000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-5 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 301417000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 361201000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 442364000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 651535000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@74e56143, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3df0e9bc, org.springframework.security.web.context.SecurityContextHolderFilter@234eabe7, org.springframework.security.web.header.HeaderWriterFilter@2bd03120, org.springframework.web.filter.CorsFilter@4626e0bc, org.springframework.security.web.authentication.logout.LogoutFilter@d6a11e4, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@3f929a02, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@74ef3988, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5e9c4f04, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6d4f30f0, org.springframework.security.web.session.SessionManagementFilter@3476384a, org.springframework.security.web.access.ExceptionTranslationFilter@59f1d0e6, org.springframework.security.web.access.intercept.AuthorizationFilter@7571cb9d]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 698753000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 777930000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 785556000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 786565000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 789728000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 2.561 seconds (process running for 391.823)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709561757,
+    "nanoOfSecond" : 790588000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 132,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709562427,
+    "nanoOfSecond" : 27417000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 141,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709562427,
+    "nanoOfSecond" : 37098000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 141,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709562427,
+    "nanoOfSecond" : 61314000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 24 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 141,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709562427,
+    "nanoOfSecond" : 69276000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.handler.HandlerMappingIntrospector",
+  "message" : "Cache miss for REQUEST dispatch to '/api/v1/user' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 141,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709582527,
+    "nanoOfSecond" : 598871000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h8m7s452ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709585930,
+    "nanoOfSecond" : 29396000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=56m42s376ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709586349,
+    "nanoOfSecond" : 965834000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=7m27ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709587571,
+    "nanoOfSecond" : 490515000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=20m21s522ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709589304,
+    "nanoOfSecond" : 284808000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=28m52s793ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709592652,
+    "nanoOfSecond" : 409668000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=5m17s603ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709594519,
+    "nanoOfSecond" : 4678000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1m6s269ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709601016,
+    "nanoOfSecond" : 926076000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h36m17s668ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709605362,
+    "nanoOfSecond" : 520437000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h12m25s691ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709610454,
+    "nanoOfSecond" : 491640000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h24m51s989ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709616358,
+    "nanoOfSecond" : 482696000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h38m23s990ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709621299,
+    "nanoOfSecond" : 107962000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h22m20s603ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709624566,
+    "nanoOfSecond" : 954495000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=54m27s871ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709629235,
+    "nanoOfSecond" : 76878000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h17m48s105ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709634002,
+    "nanoOfSecond" : 196952000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1h19m27s100ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709635601,
+    "nanoOfSecond" : 172692000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=26m39s14ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709635682,
+    "nanoOfSecond" : 128883000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=1m20s958ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709637650,
+    "nanoOfSecond" : 465628000
+  },
+  "thread" : "HikariPool-5 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-5 - Thread starvation or clock leap detected (housekeeper delta=32m48s332ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 137,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709638324,
+    "nanoOfSecond" : 908030000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709638325,
+    "nanoOfSecond" : 17729000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-5 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709638325,
+    "nanoOfSecond" : 790749000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-5 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664140,
+    "nanoOfSecond" : 598814000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 76457 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664140,
+    "nanoOfSecond" : 585837000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664140,
+    "nanoOfSecond" : 619698000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664140,
+    "nanoOfSecond" : 638039000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664140,
+    "nanoOfSecond" : 638507000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 61440000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 88322000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 22 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 423035000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 427756000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 428741000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 428949000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 449518000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 449824000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 811 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 556868000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 589538000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 605350000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 715251000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664141,
+    "nanoOfSecond" : 732053000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664142,
+    "nanoOfSecond" : 29115000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b0348e6",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664142,
+    "nanoOfSecond" : 30405000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664142,
+    "nanoOfSecond" : 749055000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664142,
+    "nanoOfSecond" : 956525000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664143,
+    "nanoOfSecond" : 228857000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664143,
+    "nanoOfSecond" : 888541000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2040f644, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@50c1657c, org.springframework.security.web.context.SecurityContextHolderFilter@459d8158, org.springframework.security.web.header.HeaderWriterFilter@156dd6b3, org.springframework.web.filter.CorsFilter@1238510a, org.springframework.security.web.authentication.logout.LogoutFilter@533b845b, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@6454ddeb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7ab8d51e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@dbccaf5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@178e8b06, org.springframework.security.web.session.SessionManagementFilter@29c2c682, org.springframework.security.web.access.ExceptionTranslationFilter@285ca838, org.springframework.security.web.access.intercept.AuthorizationFilter@3e15b41e]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664143,
+    "nanoOfSecond" : 980836000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664144,
+    "nanoOfSecond" : 175000000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664144,
+    "nanoOfSecond" : 189976000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664144,
+    "nanoOfSecond" : 198123000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664144,
+    "nanoOfSecond" : 204487000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 3.753 seconds (process running for 4.49)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664906,
+    "nanoOfSecond" : 273413000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m14s39ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 33,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664958,
+    "nanoOfSecond" : 640075000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664958,
+    "nanoOfSecond" : 647989000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664958,
+    "nanoOfSecond" : 708085000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 59 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709664958,
+    "nanoOfSecond" : 755007000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.handler.HandlerMappingIntrospector",
+  "message" : "Cache miss for REQUEST dispatch to '/api/v1/roles' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665104,
+    "nanoOfSecond" : 772707000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 40,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665105,
+    "nanoOfSecond" : 164613000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 41,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665105,
+    "nanoOfSecond" : 340228000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 41,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665105,
+    "nanoOfSecond" : 481981000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 41,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665106,
+    "nanoOfSecond" : 443037000
+  },
+  "thread" : "Thread-5",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 41,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665106,
+    "nanoOfSecond" : 692586000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 76457 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665106,
+    "nanoOfSecond" : 702466000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665106,
+    "nanoOfSecond" : 944481000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665106,
+    "nanoOfSecond" : 954767000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 9 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 56916000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 57431000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 57601000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 57734000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 62802000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 62948000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 358 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 96816000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 98696000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 100750000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 101338000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 166934000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@73bf25",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 167268000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 197385000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 342540000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 458657000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 687387000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@44cac84b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1128b7bc, org.springframework.security.web.context.SecurityContextHolderFilter@69890c, org.springframework.security.web.header.HeaderWriterFilter@7d55837b, org.springframework.web.filter.CorsFilter@3cb67609, org.springframework.security.web.authentication.logout.LogoutFilter@510961cb, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@3140617, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6875b48d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@39eabca3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1fb1fb36, org.springframework.security.web.session.SessionManagementFilter@5e57f581, org.springframework.security.web.access.ExceptionTranslationFilter@3ffaf1d5, org.springframework.security.web.access.intercept.AuthorizationFilter@ab4e0f0]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 735792000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 825812000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 833522000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 834413000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 837206000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 1.197 seconds (process running for 624.094)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665107,
+    "nanoOfSecond" : 838200000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 64,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665109,
+    "nanoOfSecond" : 252570000
+  },
+  "thread" : "File Watcher",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener",
+  "message" : "Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 72,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665109,
+    "nanoOfSecond" : 259047000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Stopping ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 158558000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 184765000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 192802000
+  },
+  "thread" : "Thread-7",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-2 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 61,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 303538000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 76457 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 305930000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 391615000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 399601000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 7 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 484509000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 485012000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 485175000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 485281000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 489992000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 490116000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 184 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 521876000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 523585000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 525503000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 525945000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 541639000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d85b2bc",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 541805000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 566144000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 628436000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 716887000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 882512000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@249f1297, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@76a074d1, org.springframework.security.web.context.SecurityContextHolderFilter@701c1b68, org.springframework.security.web.header.HeaderWriterFilter@f59b43b, org.springframework.web.filter.CorsFilter@6dd4bed8, org.springframework.security.web.authentication.logout.LogoutFilter@1462487f, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@110f2398, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@21ed9c51, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@63570c3b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5af4319, org.springframework.security.web.session.SessionManagementFilter@1b8f914a, org.springframework.security.web.access.ExceptionTranslationFilter@342ca183, org.springframework.security.web.access.intercept.AuthorizationFilter@1bb00be6]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665116,
+    "nanoOfSecond" : 924346000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665117,
+    "nanoOfSecond" : 7048000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665117,
+    "nanoOfSecond" : 14356000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665117,
+    "nanoOfSecond" : 15135000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665117,
+    "nanoOfSecond" : 17792000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 0.735 seconds (process running for 633.274)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665117,
+    "nanoOfSecond" : 18477000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener",
+  "message" : "Condition evaluation unchanged",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 88,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665125,
+    "nanoOfSecond" : 188960000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 96,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665125,
+    "nanoOfSecond" : 190708000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 96,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665125,
+    "nanoOfSecond" : 194638000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 4 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 96,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709665125,
+    "nanoOfSecond" : 196775000
+  },
+  "thread" : "http-nio-8081-exec-1",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.handler.HandlerMappingIntrospector",
+  "message" : "Cache miss for REQUEST dispatch to '/api/v1/roles' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 96,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666308,
+    "nanoOfSecond" : 136317000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666308,
+    "nanoOfSecond" : 160957000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666309,
+    "nanoOfSecond" : 473479000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-3 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666313,
+    "nanoOfSecond" : 922534000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 77226 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666313,
+    "nanoOfSecond" : 904335000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666313,
+    "nanoOfSecond" : 952988000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666313,
+    "nanoOfSecond" : 990561000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666313,
+    "nanoOfSecond" : 992972000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 454744000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 493323000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 34 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 860223000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 866854000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 868239000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 868522000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 893514000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666314,
+    "nanoOfSecond" : 893904000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 900 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 27922000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 62587000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 82969000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 202359000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 216102000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 452591000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a59e414",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666315,
+    "nanoOfSecond" : 453554000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666316,
+    "nanoOfSecond" : 208034000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666316,
+    "nanoOfSecond" : 320296000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666316,
+    "nanoOfSecond" : 578943000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666316,
+    "nanoOfSecond" : 936257000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@276cfeec, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@29208d75, org.springframework.security.web.context.SecurityContextHolderFilter@2793af36, org.springframework.security.web.header.HeaderWriterFilter@65c0e61d, org.springframework.web.filter.CorsFilter@47a7b447, org.springframework.security.web.authentication.logout.LogoutFilter@264b024, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@74034d43, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2a09ea64, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3f92ae0f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4172b210, org.springframework.security.web.session.SessionManagementFilter@2c30fe46, org.springframework.security.web.access.ExceptionTranslationFilter@2ea99ca, org.springframework.security.web.access.intercept.AuthorizationFilter@4914df61]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666317,
+    "nanoOfSecond" : 28843000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666317,
+    "nanoOfSecond" : 200653000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666317,
+    "nanoOfSecond" : 217466000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666317,
+    "nanoOfSecond" : 225242000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666317,
+    "nanoOfSecond" : 232341000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 3.53 seconds (process running for 4.411)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666342,
+    "nanoOfSecond" : 97289000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666342,
+    "nanoOfSecond" : 98819000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666342,
+    "nanoOfSecond" : 103153000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 4 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709666342,
+    "nanoOfSecond" : 131194000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.handler.HandlerMappingIntrospector",
+  "message" : "Cache miss for REQUEST dispatch to '/api/v1/role' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 44,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668431,
+    "nanoOfSecond" : 811802000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Closing JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668431,
+    "nanoOfSecond" : 890677000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown initiated...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668431,
+    "nanoOfSecond" : 985494000
+  },
+  "thread" : "SpringApplicationShutdownHook",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Shutdown completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668437,
+    "nanoOfSecond" : 651568000
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 21,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668437,
+    "nanoOfSecond" : 665478000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 17.0.6 with PID 78204 (/Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app/target/classes started by yacine in /Users/yacine/Desktop/intellij_projects/examenjava_devops/admin_app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668437,
+    "nanoOfSecond" : 691453000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668437,
+    "nanoOfSecond" : 714420000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668437,
+    "nanoOfSecond" : 715164000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 113567000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 139080000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 21 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 511204000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 515903000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 516981000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 517179000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.16]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 536939000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 537219000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 822 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 628438000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.jpa.internal.util.LogHelper",
+  "message" : "HHH000204: Processing PersistenceUnitInfo [name: default]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.EntityManagerMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 667109000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.Version",
+  "message" : "HHH000412: Hibernate ORM core version 6.3.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 683345000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.cache.internal.RegionFactoryInitiator",
+  "message" : "HHH000026: Second-level cache disabled",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 792589000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo",
+  "message" : "No LoadTimeWeaver setup: ignoring JPA class transformer",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668438,
+    "nanoOfSecond" : 809619000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Starting...",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668439,
+    "nanoOfSecond" : 29141000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7544bee0",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668439,
+    "nanoOfSecond" : 30352000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "com.zaxxer.hikari.HikariDataSource",
+  "message" : "HikariPool-1 - Start completed.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668439,
+    "nanoOfSecond" : 511717000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator",
+  "message" : "HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.internal.CoreMessageLogger_$logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668439,
+    "nanoOfSecond" : 649185000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean",
+  "message" : "Initialized JPA EntityManagerFactory for persistence unit 'default'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668439,
+    "nanoOfSecond" : 884572000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration",
+  "message" : "spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 432307000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.security.web.DefaultSecurityFilterChain",
+  "message" : "Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@508f40d9, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4486bce3, org.springframework.security.web.context.SecurityContextHolderFilter@212f87bd, org.springframework.security.web.header.HeaderWriterFilter@3a55414b, org.springframework.web.filter.CorsFilter@2873b936, org.springframework.security.web.authentication.logout.LogoutFilter@1eafc06a, org.springframework.security.oauth2.server.resource.web.authentication.BearerTokenAuthenticationFilter@347b0c41, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1a3a468c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2250305c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@497d00a5, org.springframework.security.web.session.SessionManagementFilter@533b845b, org.springframework.security.web.access.ExceptionTranslationFilter@65dd1005, org.springframework.security.web.access.intercept.AuthorizationFilter@7223deb1]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 513179000
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration",
+  "message" : "Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 692002000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer",
+  "message" : "LiveReload server is running on port 35729",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 707680000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Starting ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 729469000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat started on port 8081 (http) with context path ''",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668440,
+    "nanoOfSecond" : 738363000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Started AdminAppApplication in 3.211 seconds (process running for 3.92)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 19,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668468,
+    "nanoOfSecond" : 211079000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring DispatcherServlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 42,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668468,
+    "nanoOfSecond" : 212448000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Initializing Servlet 'dispatcherServlet'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 42,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668468,
+    "nanoOfSecond" : 215159000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.web.servlet.DispatcherServlet",
+  "message" : "Completed initialization in 3 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 42,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668468,
+    "nanoOfSecond" : 224057000
+  },
+  "thread" : "http-nio-8081-exec-2",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.web.servlet.handler.HandlerMappingIntrospector",
+  "message" : "Cache miss for REQUEST dispatch to '/api/v1/user' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 42,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709668917,
+    "nanoOfSecond" : 536766000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s293ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709669558,
+    "nanoOfSecond" : 414460000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m10s781ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709669625,
+    "nanoOfSecond" : 886896000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m7s487ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709675093,
+    "nanoOfSecond" : 501611000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h31m7s610ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709675572,
+    "nanoOfSecond" : 207526000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m58s707ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709679979,
+    "nanoOfSecond" : 441305000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s288ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709681026,
+    "nanoOfSecond" : 924833000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m56s213ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709682082,
+    "nanoOfSecond" : 443529000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m5s493ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709682568,
+    "nanoOfSecond" : 324335000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m5s834ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709685850,
+    "nanoOfSecond" : 678943000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m23s742ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709688320,
+    "nanoOfSecond" : 129445000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m9s259ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709691427,
+    "nanoOfSecond" : 940433000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m47s867ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709692637,
+    "nanoOfSecond" : 761888000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m9s825ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709696810,
+    "nanoOfSecond" : 808207000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m33s42ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709700756,
+    "nanoOfSecond" : 699012000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m45s887ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709706575,
+    "nanoOfSecond" : 913318000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h36m59s126ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709709864,
+    "nanoOfSecond" : 24376000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m48s206ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709714696,
+    "nanoOfSecond" : 729826000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h20m32s705ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709717134,
+    "nanoOfSecond" : 391114000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m37s633ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709720032,
+    "nanoOfSecond" : 114440000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m17s753ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709720809,
+    "nanoOfSecond" : 64077000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m56s945ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709722076,
+    "nanoOfSecond" : 664221000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m7s597ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709723586,
+    "nanoOfSecond" : 736200000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m8s502ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709724676,
+    "nanoOfSecond" : 440272000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m39s142ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709727527,
+    "nanoOfSecond" : 593356000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m931ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709728755,
+    "nanoOfSecond" : 6195000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m57s238ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709732165,
+    "nanoOfSecond" : 412931000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m20s330ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1709733136,
+    "nanoOfSecond" : 173138000
+  },
+  "thread" : "HikariPool-1 housekeeper",
+  "level" : "WARN",
+  "loggerName" : "com.zaxxer.hikari.pool.HikariPool",
+  "message" : "HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m40s684ms).",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}

@@ -19,7 +19,7 @@ public class SecurityConfig {
     private final JwtAuthConverter jwtAuthConverter;
     @Bean
     public JwtDecoder jwtDecoder() {
-        return JwtDecoders.fromIssuerLocation("http://localhost:8080/realms/Fayoss");
+        return JwtDecoders.fromIssuerLocation("http://localhost:8080/realms/yacine");
     }
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {

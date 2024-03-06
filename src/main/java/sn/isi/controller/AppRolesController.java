@@ -20,7 +20,6 @@ public class AppRolesController {
     private static final Logger logger = LogManager.getLogger(AppRolesController.class);
 
     @GetMapping
-    @PreAuthorize("hasRole('client_admin')")
     public List<AppRoles> getAppRoles() {
         return appRolesService.getAppRoles();
     }
