@@ -19,4 +19,19 @@ KEYCLOAK
 <img width="1049" alt="Capture d’écran 2024-03-05 à 19 55 25" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/b82dac22-d5f6-4ceb-bc84-ac0b14a1e0e3">
 
 ELK
+<img width="1434" alt="Capture d’écran 2024-03-02 à 18 16 43" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/2c93bd29-e4fe-45dd-9411-8086eb7680cd">
 
+<img width="1434" alt="Capture d’écran 2024-03-02 à 18 51 59" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/756e33ea-fcb9-4862-ba57-4d48fcdc03a7">
+
+<img width="1157" alt="Capture d’écran 2024-03-02 à 20 29 06" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/1f39bb42-a41f-477e-9a1f-5de602bdb9e6">
+
+<img width="810" alt="Capture d’écran 2024-03-02 à 20 29 32" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/2cb7ca6c-a670-4d6e-9ad6-e726ab364714">
+
+
+<img width="1437" alt="Capture d’écran 2024-03-02 à 20 43 50" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/cc929c1b-b0f3-4d85-b6d2-57df8373b278">
+
+<img width="1437" alt="Capture d’écran 2024-03-02 à 20 48 43" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/2b7f53d2-99eb-480a-a87c-3b58236ffdda">
+
+<img width="1437" alt="Capture d’écran 2024-03-02 à 20 51 38" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/c8035794-5dd4-44fe-9968-3c13dd6e51a8">
+
+<img width="771" alt="Capture d’écran 2024-03-02 à 21 48 02" src="https://github.com/yacine2000-hub/admin-app-spring/assets/97108145/42b69661-bd0a-413c-b251-4c9dd9154379">
